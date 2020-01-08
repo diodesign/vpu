@@ -10,8 +10,12 @@ The VPU is suitable for neural-network inference workloads using 8-bit integer m
 This is a work in progress. Here's what needs to be implemented:
 * INT8 multiply-and-add unit
 * Data fetch
+* Data write
 * Control registers
+* Interrupts
+* DMA engine
 * Driver software
+* SRAM cache
 * Probably more...
 
 ## Copyright, license, and contact
